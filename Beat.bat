@@ -1,0 +1,2 @@
+node beat.js
+pause
